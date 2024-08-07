@@ -1,0 +1,24 @@
+{
+  "filmes": [
+    {
+      "title": "IMPUROS",
+      "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/8bf42e60-87f9-47f7-b660-779b45bd9132/compose?format=webp&label=standard_art_star-original_178&width=800"
+    },
+    {
+      "title": "SOMOS OS QUE TIVERAM SORTE",
+      "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/e87fb876-d5d5-4da3-b231-1ab2e8cf0d8f/compose?format=webp&label=standard_art_star-original_178&width=800"
+    },
+    {
+      "title": "BECOMING KARL LAGERFIELD",
+      "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/d24f7621-cccc-400d-9c1f-c6541509e147/compose?format=webp&label=standard_art_star-original_178&width=800"
+    },
+    {
+      "title": "PLANETA DOS MACACOS O REINADO",
+      "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/eca9aa53-bad9-43ad-8dc0-9c820dbc8ff7/compose?format=webp&label=standard_art_178&width=800"
+    },
+    {
+      "title": "O URSO",
+      "image": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/26d48a09-01a9-44ed-b016-7080c2a76a7c/compose?format=webp&label=standard_art_star-original_178&width=800"
+    }
+  ]
+}
